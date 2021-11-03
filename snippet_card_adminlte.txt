@@ -1,0 +1,21 @@
+"card-adminlte": {
+    "prefix": "card-adminlte",
+    "body": [
+        "<div class=\"card card-info\">",
+            "\t<div class=\"card-header\">",
+                "\t\t<h3 class=\"card-title\"></h3>",
+                    "\t\t\t<div class=\"card-tools\">",
+                        "\t\t\t\t<button type=\"button\" class=\"btn btn-tool\" data-card-widget=\"collapse\">",
+                            "\t\t\t\t\t<i class=\"fas fa-minus\"></i>",
+                        "\t\t\t\t</button>",
+                        "\t\t\t\t<button type=\"button\" class=\"btn btn-tool\" data-card-widget=\"remove\">",
+                            "\t\t\t\t\t\t<i class=\"fas fa-times\"></i>",
+                        "\t\t\t\t</button>",
+                    "\t\t\t</div> <!-- ./ end card-tools -->",
+                "\t\t</div> <!-- ./ end card-header -->",
+            "\t<div class=\"card-body\">",
+            "\t</div> <!-- ./ end card-body -->",
+        "</div>",
+    ],
+    "description": "Card de la plantilla adminLTE"
+}
